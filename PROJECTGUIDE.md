@@ -3,15 +3,15 @@
 ![state: not ready](https://img.shields.io/badge/status-not%20ready-red.svg)
 
 ## Project outline and details
-  1. Project name:
-  2. What kind (static website, game, mobile web app, etc.) of project is this:
-  3. What is this project about (please be detailed):
+  1. Project name: wonderwoman
+  2. What kind (static website, game, mobile web app, etc.) of project is this: website
+  3. What is this project about (please be detailed): this is awebsite about wonderwoman
   4. What research (do you need to learn about a person, find images, etc.) do you need to do for this project:
 
-  - **Date the project outline is scheduled to be completed:** 
+  - **Date the project outline is scheduled to be completed:** 6/24
   - **Date the project outline was completed:**
   - **Instructor/coordinator initials:**
-  - **Student initials:**
+  - **Student initials:** s.w.
 
 ## Skill tracking (Level 1)
 
